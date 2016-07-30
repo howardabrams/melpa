@@ -1,0 +1,3 @@
+(knife :fetcher github
+       :repo "howardabrams/knife.el"
+       :files ("knife.el"))
